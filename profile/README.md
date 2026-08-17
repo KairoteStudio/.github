@@ -1,6 +1,6 @@
 # 元辰起刻 · Kairote Studio
 
-Kairote Studio 是一个由中学生组成的开发团队，主要做编程语言和编译器相关的工作。
+Kairote Studio 是一个由普通人组成的开发团队，主要做编程语言和编译器相关的工作。
 
 ## 项目
 
