@@ -7,7 +7,7 @@
 
 此组织汇集了我们参与开发并向社区提供的许多开源项目。每个项目都有一个标签，用于对项目类型进行分类：
 
-| 标签        | 描述
+| 标签        | 描述      |
 | ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=KairoteStudio&style=plastic) | 由KairoteStudio正式支持。这些项目可以是产品、插件、学习材料、书籍等。所有人都可以根据许可条款使用这些项目，并且它们均由KairoteStudio提供部分支持(精力有限) |
 | ![Team](https://img.shields.io/badge/project-team-green.svg?colorA=303033&colorB=21d789&label=KairoteStudio&style=plastic) |  团队项目由KairoteStudio成员创建。这些项目包括 20% 项目、支持产品开发流程的项目和/或有益于KairoteStudio开发者社区的项目,尽管没有官方支持，所有人仍可根据许可条款使用团队项目 不过，有时团队项目会成为官方项目|
 | ![Indev](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=b26fff&label=KairoteStudio&style=plastic) | Indev项目是由KairoteStudio开发的官方项目。它们被视为实验性项目，尚不够成熟，或在某些方面有所欠缺，例如发布质量、测试和支持文档。它们按现状提供。 |
