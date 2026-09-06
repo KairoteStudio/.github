@@ -11,7 +11,7 @@
 | ------------- |-------------|
 | ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=KairoteStudio&style=plastic) | 由KairoteStudio正式支持。这些项目可以是产品、插件、学习材料、书籍等。所有人都可以根据许可条款使用这些项目，并且它们均由KairoteStudio提供部分支持(精力有限) |
 | ![Team](https://img.shields.io/badge/project-team-green.svg?colorA=303033&colorB=21d789&label=KairoteStudio&style=plastic) |  团队项目由KairoteStudio成员创建。这些项目包括 20% 项目、支持产品开发流程的项目和/或有益于KairoteStudio开发者社区的项目,尽管没有官方支持，所有人仍可根据许可条款使用团队项目 不过，有时团队项目会成为官方项目|
-| ![Indev](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=b26fff&label=KairoteStudio&style=plastic) | Indev项目是由KairoteStudio开发的官方项目。它们被视为实验性项目，尚不够成熟，或在某些方面有所欠缺，例如发布质量、测试和支持文档。它们按现状提供。 |
+| ![Indev](https://img.shields.io/badge/project-indev-green.svg?colorA=303033&colorB=b26fff&label=KairoteStudio&style=plastic) | Indev项目是由KairoteStudio开发的官方项目。它们被视为实验性项目，尚不够成熟，或在某些方面有所欠缺，例如发布质量、测试和支持文档。它们按现状提供。 |
 | ![Research](https://img.shields.io/badge/project-research-green.svg?colorA=303033&colorB=21d0ed&label=KairoteStudio&style=plastic) | 研究项目是由KairoteStudio Research实验室开发和维护的官方项目。这些项目旨在为部分研究做出贡献，并将其发现带入用户的日常体验中。它们按现状提供。|
 | ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=8c9196&label=KairoteStudio&style=plastic) | 废弃项目是已经停止开发、被其他项目取代或具有历史意义的项目。 |
 
